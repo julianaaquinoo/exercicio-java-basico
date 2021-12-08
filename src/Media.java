@@ -23,7 +23,7 @@ public class Media {
 		System.out.println("Digite a quarta nota: ");
 		quartaNota = input.nextDouble();
 		
-		System.out.println("A média das notas de matemática do " + nome + " é " + (primeiraNota + segundaNota + terceiraNota + quartaNota) / 4);
+		System.out.println("A média das notas de matemática de " + nome + " é " + (primeiraNota + segundaNota + terceiraNota + quartaNota) / 4);
 
 
 		
